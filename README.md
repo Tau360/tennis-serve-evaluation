@@ -4,6 +4,8 @@ This repository provides the code needed to compare a tennis serve to a referenc
 
 ## Implementation Details
 
+All material is for academic use only. Not for commercial use. Some of the images/videos are from public sources.
+
 Implementation is done on Linux.
 
 Outside of a virtual environment, clone the Pr-VIPE Github repository and install openpifpaf and DTW for Python. 
